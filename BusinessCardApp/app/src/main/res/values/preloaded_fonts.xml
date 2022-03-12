@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/dekko</item>
+        <item>@font/dm_sans</item>
+        <item>@font/julee</item>
+        <item>@font/khula_light</item>
+        <item>@font/nanum_gothic</item>
+        <item>@font/pontano_sans</item>
+        <item>@font/quattrocento_sans</item>
+        <item>@font/ramabhadra</item>
+        <item>@font/space_mono</item>
+        <item>@font/stylish</item>
+    </array>
+</resources>
